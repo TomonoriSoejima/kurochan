@@ -1,7 +1,7 @@
 ## Synopsis
 
 
-This tool will read the input file and see each word will be segmented by kuromoji tokenizer.
+This tool will read the input file and see if each word will be segmented by kuromoji tokenizer.
 If it does, the tool will report it.
 
 
